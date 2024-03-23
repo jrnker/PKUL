@@ -9,3 +9,5 @@
 
 # Example remove user
 #!joe ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDFmV+O9sEPL0BDWYkZtBkaumvhzxkDHdpE0AAAAhAKMSvzIBnni7ot/OSie2TmJLY4SwTQAevXysE2RbFDYdAAAAIQEJQRpFCcydunv2bENcN/oBTRw39E8GNv2pIcNxZkcbNQAAACATrP+Toj4KE3Usu23BfSBqUhPGYBis4GEF8KCQQI9xlQvmQ4V18Nw2lIalHD+wdN userjoe@domain.com
+
+# End of file. Yes, this is kind of needed
