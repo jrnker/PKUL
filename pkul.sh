@@ -45,8 +45,8 @@ fi
 
 # Go to the repository directory and pull latest changes
 cd $REPO_LOCAL_PATH
-git reset --hard
-git pull
+git reset --hard > /dev/null 2>&1
+git pull > /dev/null 2>&1
 
 # Ensure execute on this script
 chmod +x $REPO_LOCAL_PATH/pkul.sh
